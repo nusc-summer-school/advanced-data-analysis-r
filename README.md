@@ -1,6 +1,5 @@
-Advanced Data Analysis with R
-NUSC Summer School 2025
-Show Image
+Advanced Data Analysis with R NUSC Summer School 2025
+
 Welcome to the Advanced Data Analysis with R workshop for the NUSC Summer School 2025! This repository contains all the materials needed to master statistical analysis, visualization, and modeling with R.
 Workshop Overview
 This workshop provides a comprehensive exploration of advanced data analysis techniques using R and its ecosystem. Participants will learn statistical modeling, data visualization, and machine learning implementation in R with emphasis on real-world applications.
