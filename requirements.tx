@@ -1,0 +1,12 @@
+# R package installation script
+install.packages(c(
+  "tidyverse",
+  "rmarkdown",
+  "shiny",
+  "plotly",
+  "lme4",
+  "forecast",
+  "tidymodels",
+  "ggplot2",
+  "knitr"
+))
